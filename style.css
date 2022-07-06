@@ -1,27 +1,25 @@
 h1 {
-    font-size: 40px;
-    color: crimson;
-    margin-left: 35%;
+    color: chartreuse;
+    font-size: 400%;
+    text-align: center;
+
+}
+
+
+
+.p {
+    color: cornsilk;
+    text-align: center;
 
 
 }
 
-p {
-    margin-left: 20%;
-    margin-right: 20%;
-    color: rgb(49, 211, 28);
-
-}
-
-img {
-    margin-top: 0%;
-    margin-bottom: 0%;
-    margin-right: 20%;
-    margin-left: 20%;
-
-}
-
-.press-button {
+.Collecting-Fund {
     text-decoration: none;
-    background-color: rgb(98, 0, 255);
+    background-color: rgba(12, 93, 199, 0.74);
+    padding: 5px 15px;
+    color: antiquewhite;
+    font-weight: 700;
+    border-radius: 5px;
+    margin-left: 45%;
 }
