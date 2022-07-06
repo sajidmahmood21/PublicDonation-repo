@@ -5,15 +5,18 @@ h1 {
 
 }
 
+.p {
+    color: rgb(192, 30, 130);
+}
 
 
 .Collecting-Fund {
     text-decoration: none;
-    background-color: rgba(12, 93, 199, 0.74);
-    padding: 5px 15px;
+    background-color: darkorange;
+    padding: 10px 40px;
     color: antiquewhite;
-    font-weight: 700;
-    border-radius: 5px;
+    font-size: 150%;
+    border-radius: 5%;
     margin-left: 45%;
 }
 
@@ -35,4 +38,8 @@ h1 {
 
 .link-button {
     text-decoration: none;
+    color: azure;
+    background-color: blue;
+    border-radius: 5px;
+    font-size: 30px;
 }
